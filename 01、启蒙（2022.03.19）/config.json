@@ -1,0 +1,27 @@
+{
+  "name": {
+    "zh-cn":" 创造侠：启蒙",
+    "en": "Intelligent Hardware: Enlightenment"
+  },
+  "description": {
+    "zh-cn": "第一学年（V0.2.1）",
+    "en": "First school year"
+  },
+  "author": "乐博星球",
+  "email": "276155169@qq.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "创造侠：启蒙",
+  "platform": ["win","mac","web"],
+  "version": "0.2.1",
+  "asset": 
+  {
+    "arduinoC": 
+    {
+      "dir": "arduinoC/",
+      "version": "0.2.1",
+      "board": ["arduino","arduinonano","arduinounor3"],
+      "main": "main.ts"
+    }
+  }
+}
